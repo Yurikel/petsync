@@ -1,15 +1,11 @@
 # PETSYNC
 
-Сервис для трекинга здоровья домашнего животного.
+A pet health tracker for AK "BARS" veterinary clinics.
 
-Используемые технологии:
+User-friendly interpretation of analysis and alerting about vaccination cycles.
 
-Frontend:
+Frontend: HTML, CSS, React, Redux, Material UI
 
-HTML, CSS, React, Redux, Material UI
+Backend: NodeJS, Express, MongoDB, Mongoose, Firebase
 
-Backend:
-
-NodeJS, Express, MongoDB, Mongoose, Firebase
-
-Ссылка на сайт: https://petsync.ru/
+https://pet-sync.herokuapp.com/
